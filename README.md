@@ -75,6 +75,5 @@
             <li>Інтеграція з API</li>
         </ul>
         <a class="blinking-button" href="https://t.me/Smetaniuk_1_bot" target="_blank">Запустити бота</a>
-
-</body>
+    </body>
 </html>
